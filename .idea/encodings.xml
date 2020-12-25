@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/database/test1/employee" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/database/test1/employee.config" charset="Big5" />
+    <file url="file://$PROJECT_DIR$/database/test1/person" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/database/test1/randomIndex" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/database/test1/unrepatedIndex" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/zhangyujie/db/Alter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/zhangyujie/test/AddRandomData.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/zhangyujie/test/AddUnrepeatedData.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/zhangyujie/test/HashMapTest.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/com/zhangyujie/test/test.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/BTree.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Check.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/ConditionalExpression.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Create.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/DBMS.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/DataDictionary.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/DataEntry.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Delete.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/DisplayField.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Drop.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Field.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Handler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Hash.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/HashNode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/IOUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/IndexLeafNode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/IndexNode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Insert.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/InternalNode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/LeafNode.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Node.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/NodeEntry.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Oper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/OperUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Operate.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/OperationEnum.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/ParseAccount.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Prime.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Select.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Show.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Table.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Tree.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Update.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/db/Use.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/测试语句.txt" charset="GBK" />
+  </component>
+</project>
